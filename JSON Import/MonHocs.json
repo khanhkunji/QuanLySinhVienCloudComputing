@@ -1,0 +1,12 @@
+[
+  {
+    "mamh_id": "MH01",
+    "tenMH": "Lập trình C#",
+    "soTinChi": 3
+  },
+  {
+    "mamh_id": "MH02",
+    "tenMH": "Cơ sở dữ liệu",
+    "soTinChi": 3
+  }
+]

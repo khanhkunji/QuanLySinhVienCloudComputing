@@ -1,0 +1,22 @@
+[
+  {
+    "malop_id": "IT01",
+    "tenLop": "Công nghệ thông tin 01",
+    "makhoa_id": "CNTT"
+  },
+  {
+    "malop_id": "IT02",
+    "tenLop": "Công nghệ thông tin 02",
+    "makhoa_id": "CNTT"
+  },
+  {
+    "malop_id": "CS01",
+    "tenLop": "Khoa học máy tính 01",
+    "makhoa_id": "KHMT"
+  },
+  {
+    "malop_id": "CS02",
+    "tenLop": "Khoa học máy tính 02",
+    "makhoa_id": "KHMT"
+  }
+]

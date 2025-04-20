@@ -1,0 +1,22 @@
+[
+  {
+    "masv_id": "SV001",
+    "hoTen": "Lê Thị A",
+    "ngaySinh": "10/04/2003",
+    "gioiTinh": "Nữ",
+    "email": "lethia@example.com",
+    "sdt": "0905123456",
+    "malop_id": "IT01",
+    "makhoa_id": "CNTT"
+  },
+  {
+    "masv_id": "SV002",
+    "hoTen": "Nguyễn Văn B",
+    "ngaySinh": "15/06/2002",
+    "gioiTinh": "Nam",
+    "email": "nguyenvanb@example.com",
+    "sdt": "0912345678",
+    "malop_id": "IT02",
+    "makhoa_id": "CNTT"
+  }
+]
